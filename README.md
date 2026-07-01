@@ -1,10 +1,14 @@
+# Live Links 
+Frontend: https://notes-work-app.netlify.app
+Backend: https://notes-app-backend-jban.onrender.com
+
 # Notes App
 
 A full-stack Notes application with user authentication, role-based access (User/Admin), and full CRUD for notes.
 
 ## Tech Stack
 
-**Backend**
+Backend
 - Node.js
 - Express.js
 - MongoDB (Mongoose)
@@ -13,7 +17,7 @@ A full-stack Notes application with user authentication, role-based access (User
 - express-validator
 - Swagger (swagger-jsdoc + swagger-ui-express)
 
-**Frontend**
+Frontend
 - React + Vite
 - React Router
 - Axios
