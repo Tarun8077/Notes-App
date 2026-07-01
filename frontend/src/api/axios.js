@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Central axios instance pointing to the backend API
 const api = axios.create({
-  baseURL: "https://notes-app-backend-jban.onrender.com",
+  baseURL: "https://notes-app-backend-jban.onrender.com/api",
 });
 
 // Attach the JWT (from localStorage) to every request, if present
